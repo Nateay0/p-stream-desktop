@@ -43,7 +43,7 @@
     },
     "publish": {
       "provider": "github",
-      "owner": "p-stream",
+      "owner": "Nateay0",
       "repo": "p-stream-desktop"
     },
     "files": [
